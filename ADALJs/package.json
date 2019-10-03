@@ -1,0 +1,9 @@
+{
+  "name": "adaljs",
+  "version": "0.0.0",
+  "description": "ADALJs",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
